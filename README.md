@@ -86,9 +86,7 @@ Array.from(document.querySelectorAll('span')).map(x => x.textContent)
 
 3. Change styles
 
-4. ADVANCED -- Inspect network requests
-
-If you want to hack something, the first step is understanding the underlying infrastructure.
+4. ADVANCED -- Inspect network requests, very useful for hacking
 
 ## 3. Try it yourself!
 
