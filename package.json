@@ -1,0 +1,26 @@
+{
+  "name": "teals-webdev-intro",
+  "version": "1.0.0",
+  "description": "A quick, one-day introduction to web development",
+  "main": "index.js",
+  "scripts": {
+    "start": "nodemon index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mrdave-dev/teals-webDev-intro.git"
+  },
+  "author": "",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/mrdave-dev/teals-webDev-intro/issues"
+  },
+  "homepage": "https://github.com/mrdave-dev/teals-webDev-intro#readme",
+  "dependencies": {
+    "express": "^4.18.1"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.16"
+  }
+}
