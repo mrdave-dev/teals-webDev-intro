@@ -1,6 +1,8 @@
 # teals-webDev-intro
 A quick, one-day introduction to web development
 
+![web developer](https://i.redd.it/k40nru2yhuz81.png)
+
 ## 1. T H E  |  I N T E R N E T
 
 ![the internet](https://i.imgur.com/zjwHc.jpg)
@@ -93,6 +95,8 @@ Array.from(document.querySelectorAll('span')).map(x => x.textContent)
 https://jsconsole.com/
 
 https://codesandbox.io/s/focused-villani-2x6dk3
+
+Finished product: https://codesandbox.io/s/dawn-waterfall-pogi94
 
 ## 4. Additional resources
 
